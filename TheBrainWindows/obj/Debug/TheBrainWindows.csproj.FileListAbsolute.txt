@@ -1,0 +1,4 @@
+C:\Users\cruzc\Documents\Visual Studio 2015\Projects\TheBrainWebApi\TheBrainWindows\bin\Debug\TheBrainWindows.dll
+C:\Users\cruzc\Documents\Visual Studio 2015\Projects\TheBrainWebApi\TheBrainWindows\bin\Debug\TheBrainWindows.pdb
+C:\Users\cruzc\Documents\Visual Studio 2015\Projects\TheBrainWebApi\TheBrainWindows\obj\Debug\TheBrainWindows.dll
+C:\Users\cruzc\Documents\Visual Studio 2015\Projects\TheBrainWebApi\TheBrainWindows\obj\Debug\TheBrainWindows.pdb
